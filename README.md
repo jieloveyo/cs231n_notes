@@ -1,4 +1,6 @@
-# jie-love-yue
+# CS231n_notes
 
-I will cherish yue forever.
-lalala~~
+It is about
+* Neural Network
+* CNN 
+* RCNN
